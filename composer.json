@@ -24,6 +24,6 @@
         "symfony/yaml": ">=2.0"
     },
     "autoload": {
-        "psr-0": { "Hn\\MessageFormatBundle": "src/" }
+        "psr-0": { "Hn\\MessageFormatBundle": "" }
     }
 }
